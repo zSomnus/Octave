@@ -1,2 +1,2 @@
-function y = sequareThisNumber(x)
+function y = squareThisNumber(x)
 y = x ^ 2;
